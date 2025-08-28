@@ -1,7 +1,7 @@
 # 🌍 Worldwide Energy Consumption – A Global Comparison
 
 <p align="center">
-  <img src="./images/energy-consumption-banner.png" alt="Worldwide Energy Consumption" width="100%">
+  <img src="./images/banner.jpg" alt="Worldwide Energy Consumption" width="100%">
 </p>
 
 ---
